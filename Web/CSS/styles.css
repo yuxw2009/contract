@@ -1,0 +1,65 @@
+body {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 94%;
+    margin: 0 auto;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.clr{
+	clear: both;
+}
+.col-md-12{
+	min-width: 1200px;
+}
+
+.page-header{
+	margin: 0;
+}
+.page-header h1{
+	font-size: 20px;
+	font-weight: 400;
+}
+.page-header h3{
+	font-size: 16px;
+	font-weight: 400;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+.form-inline .row{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.form-inline .form-control{
+	width: 150px;
+}
+.form-inline label{
+	width: 80px;
+	font-weight: 200;
+}
+.checkbox label{
+	width: auto;
+	font-weight: 200;
+}
+.textfr{
+	float: right;
+	font-weight: 500;
+	font-size: 14px;
+}
+/*********************************************/
+.edit-tan{
+	padding: 20px;
+}
+.soso{
+	width: 100%;
+	border:none;
+	text-align: center;
+}
+.tab-pane.fade{
+	padding: 10px 0;
+}
